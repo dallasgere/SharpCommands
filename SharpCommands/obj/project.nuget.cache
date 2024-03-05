@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "iJtdYSlxodDMBvIkFmEc+u7B6iinA4WfPA3M1GfXG7f0BAXbp/wgvbQgyXjmpOUainK+C5hUZEqnTYV3giPxRA==",
+  "success": true,
+  "projectFilePath": "/Users/dallasgere/dev/SharpCommands/SharpCommands/SharpCommands.csproj",
+  "expectedPackageFiles": [
+    "/Users/dallasgere/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.0/microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "/Users/dallasgere/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
